@@ -1,14 +1,4 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Gastroscopy-LED.PcbDoc   24.11.2022  12:20:21
+NCDrill File Report For: Gastroscopy-LED.PcbDoc   24.11.2022  17:48:10
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : Gastroscopy-LED_NC Drill_Rev_0.1.0_No Variations.TXT
-
-Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
-----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             2         PTH        0.77mm (0.03inch)
-----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              2
-
-Total Processing Time (hh:mm:ss) : 00:00:00

@@ -258,10 +258,6 @@ DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-LED_NC Drill_Rev_0.1.0_No Va
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=OUTPUT\PRODUCTION\NC Drill\Gastroscopy-LED_NC Drill_Rev_0.1.0_No Variations.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument16]
 DocumentPath=OUTPUT\STEP 3D\Gastroscopy-LED_STEP_3D_Rev_0.1.0_No Variations.step
 DItemRevisionGUID=
 
