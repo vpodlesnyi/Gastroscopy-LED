@@ -1,0 +1,99 @@
+*************************************************************
+FileName = Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GM1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Gastroscopy-LED_Gerber_Rev_0.1.0_No Variations.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+

@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Gastroscopy-LED.OutJob
 Description=
-TargetOutputMedium=STEP 3D
+TargetOutputMedium=PRODUCTION
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
@@ -106,7 +106,7 @@ OutputName5=Gerber Files
 OutputCategory5=Fabrication
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
@@ -115,13 +115,13 @@ OutputEnabled5_OutputMedium5=0
 OutputEnabled5_OutputMedium6=0
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=VHCMUACD|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16777220~1,16777221~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotBoardProfile=False|PlotBoardProfileFileName=Gastroscopy-Tool-Sensor.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=Gastroscopy-Tool-Sensor.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=Gastroscopy-Tool-Sensor.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=Gastroscopy-Tool-Sensor.GBO|UserLayerName.Caption1=Gastroscopy-Tool-Sensor.GTP|UserLayerName.Caption10=Gastroscopy-Tool-Sensor.GM10|UserLayerName.Caption11=Gastroscopy-Tool-Sensor.GBS|UserLayerName.Caption12=Gastroscopy-Tool-Sensor.GM7|UserLayerName.Caption13=Gastroscopy-Tool-Sensor.GM16|UserLayerName.Caption14=Gastroscopy-Tool-Sensor.G1|UserLayerName.Caption15=Gastroscopy-Tool-Sensor.GBL|UserLayerName.Caption16=Gastroscopy-Tool-Sensor.GM1|UserLayerName.Caption17=Gastroscopy-Tool-Sensor.GM15|UserLayerName.Caption18=Gastroscopy-Tool-Sensor.GM14|UserLayerName.Caption19=Gastroscopy-Tool-Sensor.G2|UserLayerName.Caption2=Gastroscopy-Tool-Sensor.GTO|UserLayerName.Caption20=Gastroscopy-Tool-Sensor.GM3|UserLayerName.Caption21=Gastroscopy-Tool-Sensor.GTL|UserLayerName.Caption22=Gastroscopy-Tool-Sensor.GKO|UserLayerName.Caption3=Gastroscopy-Tool-Sensor.GTS|UserLayerName.Caption4=Gastroscopy-Tool-Sensor.GM13|UserLayerName.Caption5=Gastroscopy-Tool-Sensor.GM2|UserLayerName.Caption6=Gastroscopy-Tool-Sensor.GPT|UserLayerName.Caption7=Gastroscopy-Tool-Sensor.GPB|UserLayerName.Caption8=Gastroscopy-Tool-Sensor.GBP|UserLayerName.Caption9=Gastroscopy-Tool-Sensor.GM9|UserLayerName.Count=23|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908298|UserLayerName.Layer11=16973835|UserLayerName.Layer12=16908295|UserLayerName.Layer13=16908304|UserLayerName.Layer14=16777220|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908289|UserLayerName.Layer17=16908303|UserLayerName.Layer18=16908302|UserLayerName.Layer19=16777221|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16908291|UserLayerName.Layer21=16777217|UserLayerName.Layer22=16973837|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973848|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16973833|UserLayerName.Layer9=16908297|DocumentPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\PCB\Gastroscopy-Tool-Sensor.PcbDoc
+Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=BRJFTKRC|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotBoardProfile=False|PlotBoardProfileFileName=Gastroscopy-LED.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=Gastroscopy-LED.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=Gastroscopy-LED.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=Gastroscopy-LED.GBO|UserLayerName.Caption1=Gastroscopy-LED.GTP|UserLayerName.Caption10=Gastroscopy-LED.GM10|UserLayerName.Caption11=Gastroscopy-LED.GM7|UserLayerName.Caption12=Gastroscopy-LED.GBS|UserLayerName.Caption13=Gastroscopy-LED.GM16|UserLayerName.Caption14=Gastroscopy-LED.GM1|UserLayerName.Caption15=Gastroscopy-LED.GBL|UserLayerName.Caption16=Gastroscopy-LED.GM15|UserLayerName.Caption17=Gastroscopy-LED.GM14|UserLayerName.Caption18=Gastroscopy-LED.GM3|UserLayerName.Caption19=Gastroscopy-LED.GTL|UserLayerName.Caption2=Gastroscopy-LED.GTO|UserLayerName.Caption20=Gastroscopy-LED.GBP|UserLayerName.Caption3=Gastroscopy-LED.GTS|UserLayerName.Caption4=Gastroscopy-LED.GM13|UserLayerName.Caption5=Gastroscopy-LED.GM2|UserLayerName.Caption6=Gastroscopy-LED.GKO|UserLayerName.Caption7=Gastroscopy-LED.GPT|UserLayerName.Caption8=Gastroscopy-LED.GPB|UserLayerName.Caption9=Gastroscopy-LED.GM9|UserLayerName.Count=21|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908298|UserLayerName.Layer11=16908295|UserLayerName.Layer12=16973835|UserLayerName.Layer13=16908304|UserLayerName.Layer14=16908289|UserLayerName.Layer15=16842751|UserLayerName.Layer16=16908303|UserLayerName.Layer17=16908302|UserLayerName.Layer18=16908291|UserLayerName.Layer19=16777217|UserLayerName.Layer2=16973830|UserLayerName.Layer20=16973833|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16908297|DocumentPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-LED\PCB\Gastroscopy-LED.PcbDoc
 OutputType6=NC Drill
 OutputName6=NC Drill Files
 OutputCategory6=Fabrication
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=0
+OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -130,7 +130,7 @@ OutputEnabled6_OutputMedium5=0
 OutputEnabled6_OutputMedium6=0
 OutputDefault6=0
 Configuration6_Name1=OutputConfigurationParameter1
-Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\PCB\Gastroscopy-Tool-Sensor.PcbDoc
+Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-LED\PCB\Gastroscopy-LED.PcbDoc
 OutputType7=BOM_PartType
 OutputName7=BOM
 OutputCategory7=Report
@@ -148,15 +148,15 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration7_Name1=ColumnNameFormat
 Configuration7_Item1=CaptionAsName
 Configuration7_Name2=General
-Configuration7_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Naval\OneDrive\Документы\Gastroscopy-Tool\TEMPLATES\BOM.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration7_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\Naval\OneDrive\Документы\Gastroscopy-LED\TEMPLATES\BOM.xltx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration7_Name3=GroupOrder
 Configuration7_Item3=Comment=True|Footprint=True
 Configuration7_Name4=SortOrder
 Configuration7_Item4=Designator=Up
 Configuration7_Name5=VisibleOrder
-Configuration7_Item5=Designator=120|Description=245|Manufacturer 1=189|Manufacturer Part Number 1=190|Quantity=79
+Configuration7_Item5=Designator=120|Description=149|Manufacturer 1=189|Manufacturer Part Number 1=174|Quantity=74
 Configuration7_Name6=VisibleOrder_Base
-Configuration7_Item6=Designator=120|Description=245|Manufacturer 1=189|Manufacturer Part Number 1=190|Quantity=79
+Configuration7_Item6=Designator=120|Description=149|Manufacturer 1=189|Manufacturer Part Number 1=174|Quantity=74
 Configuration7_Name7=VisibleOrder_Consolidated
 Configuration7_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 Configuration7_Name8=VisibleOrder_Flat
@@ -166,7 +166,7 @@ OutputName8=Export STEP
 OutputCategory8=Export
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -175,7 +175,7 @@ OutputEnabled8_OutputMedium5=0
 OutputEnabled8_OutputMedium6=1
 OutputDefault8=0
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\Naval\OneDrive\Документы\Industrial-Controller\PCB\Industrial-Controller.PcbDoc
+Configuration8_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=False|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\Naval\OneDrive\Документы\Gastroscopy-LED\PCB\Gastroscopy-LED.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Naval\OneDrive\Документы\Gastroscopy-LED\OUTPUT\SCH\Gastroscopy-LED_SCH_Rev_0.1.0_VariantName.PDF

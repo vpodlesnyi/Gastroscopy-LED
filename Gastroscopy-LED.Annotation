@@ -1,0 +1,16 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Gastroscopy-LED_Title.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=Gastroscopy-LED_Overview.SchDoc
+UniqueIDPath1=\YBWBUABX
+SheetNumber1=2
+DocumentName2=Gastroscopy-LED.SchDoc
+UniqueIDPath2=\YBWBUABX\BLHIQUJY
+SheetNumber2=3
+
+
